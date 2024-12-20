@@ -1,9 +1,10 @@
-# :mobile_phone: whats up? :mobile_phone:
+# :star: Whats Up? :star:
 
 Currently working as an independent consultant. I help fast growing companies and investors to solve product and technology problems based on 19+ years of experience in building highly distributed systems with special focus on mobile device clouds.
 
 ## Summary
 
+<p align="center">
 | Time frame     | Role |
 | ---      | ---       |
 | `2024 - now`  | Independent Consultant |
@@ -12,6 +13,7 @@ Currently working as an independent consultant. I help fast growing companies an
 | `2011 – 2011` | Scrum Master ImmobilienScout24 |
 | `2008 – 2011` | Senior Software Engineer & Scrum Master |
 | `2005 – 2008` | Bachelor in business informatics |
+</p>
 
 ## Projects i am actively using and trying to contribute whenever possible
 
