@@ -4,7 +4,7 @@ Currently working as an independent consultant. I help fast growing companies an
 
 ## :mailbox: Contact :mailbox:
 
-Let's chat on [Linkedin](https://www.linkedin.com/in/aluedeke)
+<p align="center">Let's chat on [Linkedin](https://www.linkedin.com/in/aluedeke)</p>
 
 ## Experience
 
