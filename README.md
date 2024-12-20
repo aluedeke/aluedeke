@@ -6,7 +6,7 @@ Currently working as an independent consultant. I help fast growing companies an
 
 <p align="center">Let's chat on <a href="https://www.linkedin.com/in/aluedeke">Linkedin</a></p>
 
-## Experience
+## :zap: Experience :zap:
 
 <div align="center">
 <table align="center" style="border-collapse: collapse; border: 1px solid #ddd;">
@@ -41,7 +41,7 @@ Currently working as an independent consultant. I help fast growing companies an
 </table>
 </div>
 
-## Favorite projects
+## :star: Favorite projects :star:
 
 <p align="center">
    <a href="https://github.com/danielpaulus/go-ios">
