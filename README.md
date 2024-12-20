@@ -1,8 +1,8 @@
-# :star: Whats Up? :star:
+# :iphone: Whats Up? :iphone:
 
 Currently working as an independent consultant. I help fast growing companies and investors to solve product and technology problems based on 19+ years of experience in building highly distributed systems with special focus on mobile device clouds.
 
-## :open_mailbox_with_raised_flag: Contact :open_mailbox_with_raised_flag:
+## :mailbox: Contact :mailbox:
 
 Let's chat on [Linkedin](https://www.linkedin.com/in/aluedeke)
 
