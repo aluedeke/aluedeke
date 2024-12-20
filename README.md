@@ -2,20 +2,42 @@
 
 Currently working as an independent consultant. I help fast growing companies and investors to solve product and technology problems based on 19+ years of experience in building highly distributed systems with special focus on mobile device clouds.
 
-## Summary
+## Experience
 
-<p align="center">
-| Time frame     | Role |
-| ---      | ---       |
-| `2024 - now`  | Independent Consultant |
-| `2016 – 2024` | Director Eng, Lead Architect, Product Manager Sauce Labs |
-| `2011 – 2016` | Founder & CTO TestObject Mobile Device Cloud |
-| `2011 – 2011` | Scrum Master ImmobilienScout24 |
-| `2008 – 2011` | Senior Software Engineer & Scrum Master |
-| `2005 – 2008` | Bachelor in business informatics |
-</p>
+<div align="center">
+<table align="center" style="border-collapse: collapse; border: 1px solid #ddd;">
+  <tr>
+    <th style="border: 1px solid #ddd; padding: 8px;">Time frame</th>
+    <th style="border: 1px solid #ddd; padding: 8px;">Role</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">2024 - now</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Independent Consultant</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">2016 – 2024</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Director Eng, Lead Architect, Product Manager Sauce Labs</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">2011 – 2016</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Founder & CTO TestObject Mobile Device Cloud</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">2011 – 2011</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Scrum Master ImmobilienScout24</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">2008 – 2011</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Senior Software Engineer & Scrum Master</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px; text-align: center;">2005 – 2008</td>
+    <td style="border: 1px solid #ddd; padding: 8px;">Bachelor in business informatics</td>
+  </tr>
+</table>
+</div>
 
-## Projects i am actively using and trying to contribute whenever possible
+## Favorite projects
 
 <p align="center">
    <a href="https://github.com/danielpaulus/go-ios">
