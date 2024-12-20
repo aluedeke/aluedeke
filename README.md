@@ -1,4 +1,4 @@
-# :mobile: whats up? :mobile:
+# :mobile_phone: whats up? :mobile_phone:
 
 Currently working as an independent consultant. I help fast growing companies and investors to solve product and technology problems based on 19+ years of experience in building highly distributed systems with special focus on mobile device clouds.
 
